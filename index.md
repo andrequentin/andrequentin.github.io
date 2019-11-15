@@ -18,7 +18,7 @@ p {
 
 <h3 id="infos">Informations</h3>
 Etudiant en Master 2 IMAGINA (Images, Games and INtelligent Agents) à l'université de Montpellier.<br>
-mail : [quentin.andre@etu.umontpellier.fr](mailto:quentin.andre@etu.umontpellier.fr) <br>
+mail : [quentin.andre@etu.umontpellier.fr](mailto:quentin.andre@etu.umontpellier.fr)<br>
 Titulaire du permis B<br>
 
 ---
@@ -51,7 +51,7 @@ C++, OpenGL, Voxel, Génération Procédurale, Shooter.
 [Jeu de gestion de ressource renouvelable](/projetgestion)<br>
 Unity, C#, FSM, pathfinding, Serious game.
 <br><br>
-[Programmation d'un drone pour la photogrammétrie](/projetdrone)
+[Programmation d'un drone pour la photogrammétrie](/projetdrone)<br>
 Android Studio, DJI, 3D, Calcul de plan de vol.
 <br><br>
 ---
