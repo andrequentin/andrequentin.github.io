@@ -60,21 +60,21 @@ Android Studio, DJI, 3D, Calcul de plan de vol.
 
 
 Juillet-Août 2019<br>
-Développeur Web à [FROM-SCRATCH E.U.R.L](https://www.linkedin.com/company/fromscratchfr)
-E-commerce, Wordpress, PHP, Javascript, PHPmyadmin, SQL.
-<br><br>
+Développeur Web à [FROM-SCRATCH E.U.R.L](https://www.linkedin.com/company/fromscratchfr)<br>
+E-commerce, Wordpress, PHP, Javascript, Responsive, PHPmyadmin, SQL.<br>
+<br>
 
 Juillet-Août 2018<br>
 Refonte de site Web de l'ensemble scolaire La Présentation - St Joseph à Ganges<br>
-[http://lapresentation-saintjoseph.fr/](http://lapresentation-saintjoseph.fr/)
-<br><br>
+[http://lapresentation-saintjoseph.fr/](http://lapresentation-saintjoseph.fr/)<br>
+<br>
 
 Juin-Août 2017<br>
 Ouvrier viticole polyvalent dans l'exploitation familiale. <br>
-<br><br>
+<br>
 
 Avril-février 2016<br>
-Stage de fin de formation de DUT  à [FROM-SCRATCH E.U.R.L](https://www.linkedin.com/company/fromscratchfr) (Développeur Web)
-E-commerce, Wordpress, PHP, Javascript, PHPmyadmin, SQL.
-<br><br>
+Stage de fin de formation de DUT  à [FROM-SCRATCH E.U.R.L](https://www.linkedin.com/company/fromscratchfr) (Développeur Web)<br>
+E-commerce, Wordpress, PHP, Javascript, Responsive, PHPmyadmin, SQL.<br>
+<br>
 ---
