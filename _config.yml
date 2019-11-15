@@ -1,10 +1,10 @@
 title: Quentin ANDRÉ
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/logo.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Étudiant en Master 2 Informatique à l'université de Montpellier
   <br><br>
   Actuellement à la recherche d'un stage de fin de formation dans le domaine du jeux vidéo ou de l'imagerie 3D
   <br><br>
-  <a href="https://www.linkedin.com/in/quentin-andre-9791b0111/">LinkedIn</a> 
+  <a href="https://www.linkedin.com/in/quentin-andre-9791b0111/">LinkedIn</a>
 
 theme: jekyll-theme-minimal
