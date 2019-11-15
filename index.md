@@ -10,11 +10,11 @@ a:hover {
 
 ---
 
-[Information](#infos)
-
-[Formation](#formation)
+[Informations](#infos)
 
 [Projets](#projets)
+
+[Formation](#formation)
 
 [Expérience Professionnelle](#exppro)
 
@@ -24,6 +24,21 @@ a:hover {
 Etudiant en Master 2 IMAGINA (Images, Games and INtelligent Agents) à l'université de Montpellier.<br>
 mail : [quentin.andre@etu.umontpellier.fr](mailto:quentin.andre@etu.umontpellier.fr)<br>
 Titulaire du permis B<br>
+
+---
+
+<h3 id="projets">Projets</h3>
+<h2>Projets en cours</h2>
+[Projet de jeu de tir à base de Voxel et génération procédurale de terrain](/projetvoxel)<br>
+C++, OpenGL, Voxel, Génération Procédurale, Shooter.<br>
+<br>
+[Jeu de gestion de ressource renouvelable](/projetgestion)<br>
+Unity, C#, FSM, pathfinding, Serious game.<br>
+<br>
+<h2>Projets terminé</h2>
+[Programmation d'un drone pour la photogrammétrie](/projetdrone)<br>
+Android Studio, DJI, 3D, Calcul de plan de vol.<br>
+<br>
 
 ---
 
@@ -44,20 +59,6 @@ IUT de Montpellier <br>
 Bac S Spécialité Informatique et Science du Numérique <br>
 Lycée Victor Hugo à Lunel <br>
 2011-2014
-
----
-
-<h3 id="projets">Projets</h3>
-
-[Projet de jeu de tir à base de Voxel et génération procédurale de terrain](/projetvoxel)<br>
-C++, OpenGL, Voxel, Génération Procédurale, Shooter.
-<br><br>
-[Jeu de gestion de ressource renouvelable](/projetgestion)<br>
-Unity, C#, FSM, pathfinding, Serious game.
-<br><br>
-[Programmation d'un drone pour la photogrammétrie](/projetdrone)<br>
-Android Studio, DJI, 3D, Calcul de plan de vol.
-<br><br>
 
 ---
 
