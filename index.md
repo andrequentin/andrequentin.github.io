@@ -30,7 +30,9 @@ Unity, C#, FSM, pathfinding, Serious game.<br>
 [Programmation d'un drone pour la photogrammétrie](/projetdrone)<br>
 Android Studio, DJI, 3D, Calcul de plan de vol.<br>
 <br>
-
+[Moteur de preuves pour la logique classique propositionnelle](/projetlogique)<br>
+Logique propositionnelle, C++, analyse lexicale .<br>
+<br>
 ---
 
 <h3 id="formation">Formation</h3>
