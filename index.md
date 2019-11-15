@@ -1,21 +1,10 @@
 ## Portfolio
 
 ---
-
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
+<a href="#infos">Informations</a>
+<a href="#formation">Formation</a>
+<a href="#projets">Projets</a>
+<a href="#exppro">Expérience Professionnelle</a>
 
 ### Category Name 2
 
@@ -27,8 +16,29 @@
 
 ---
 
+<div id="infos">
+### Informations
+</div>
+
+---
+
+<div id="formation">
+### Formation
+</div>
 
 
+---
+
+<div id="projets">
+### Projets
+[Projet de jeu de tir à base de Voxel et génération procédurale de terrain](/projetvoxel)
+</div>
+
+---
+
+<div id="expro">
+### Expérience Professionnelle
+</div>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
