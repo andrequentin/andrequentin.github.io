@@ -20,8 +20,6 @@ Titulaire du permis B<br>
 
 <h3 id="formation">Formation</h3>
 
-
-
 Master Informatique IMAGINA (Images, Games and INtelligent Agents)<br>
 Université de Montpellier <br>
 Depuis 2018
@@ -42,8 +40,11 @@ Lycée Victor Hugo à Lunel <br>
 
 <h3 id="projets">Projets</h3>
 
-[Projet de jeu de tir à base de Voxel et génération procédurale de terrain](/projetvoxel)
-
+[Projet de jeu de tir à base de Voxel et génération procédurale de terrain](/projetvoxel)<br>
+C++, OpenGL, Voxel, Génération Procédurale, Shooter.
+<br><br>
+[Jeu de gestion de ressource renouvelable](/projetgestion)<br>
+Unity, C#, FSM, pathfinding, Serious game. 
 ---
 
 <h3 id="exppro">Expérience Professionnelle</h3>
