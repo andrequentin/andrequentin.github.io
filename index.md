@@ -1,3 +1,8 @@
+<style type="text/css">
+p {
+  font-family:Arial;
+}
+</style>
 
 ---
 
@@ -44,10 +49,32 @@ Lycée Victor Hugo à Lunel <br>
 C++, OpenGL, Voxel, Génération Procédurale, Shooter.
 <br><br>
 [Jeu de gestion de ressource renouvelable](/projetgestion)<br>
-Unity, C#, FSM, pathfinding, Serious game. 
+Unity, C#, FSM, pathfinding, Serious game.
+<br><br>
+[Programmation d'un drone pour la photogrammétrie](/projetdrone)
+Android Studio, DJI, 3D, Calcul de plan de vol.
+<br><br>
 ---
 
 <h3 id="exppro">Expérience Professionnelle</h3>
 
 
+Juillet-Août 2019<br>
+Développeur Web à [FROM-SCRATCH E.U.R.L](https://www.linkedin.com/company/fromscratchfr)
+E-commerce, Wordpress, PHP, Javascript, PHPmyadmin, SQL.
+<br><br>
+
+Juillet-Août 2018<br>
+Refonte de site Web de l'ensemble scolaire La Présentation - St Joseph à Ganges<br>
+[http://lapresentation-saintjoseph.fr/](http://lapresentation-saintjoseph.fr/)
+<br><br>
+
+Juin-Août 2017<br>
+Ouvrier viticole polyvalent dans l'exploitation familiale. <br>
+<br><br>
+
+Avril-février 2016<br>
+Stage de fin de formation de DUT  à [FROM-SCRATCH E.U.R.L](https://www.linkedin.com/company/fromscratchfr) (Développeur Web)
+E-commerce, Wordpress, PHP, Javascript, PHPmyadmin, SQL.
+<br><br>
 ---
