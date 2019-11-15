@@ -11,7 +11,11 @@ L’objectif de ce projet est de permettre à un utilisateur de résoudre une pr
 <br><br>
 
 [Lien vers la présentation du projet ](/pdf/PresentationDrone.pdf)
+
 ---
+
 [Lien vers le rapport final du projet ](/pdf/RapportDrone.pdf)
+
 ---
+
 [Lien vers le git du projet ](https://github.com/andrequentin/TER_QBEP)

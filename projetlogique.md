@@ -10,5 +10,7 @@ Réaliser une application pour Android permettant de se connecter au drone DJI p
 <br><br>
 
 [Lien vers la présentation du projet ](/pdf/PresentationLogique.pdf)
+
 ---
+
 [Lien vers le rapport final du projet ](/pdf/RapportLogique.pdf)
