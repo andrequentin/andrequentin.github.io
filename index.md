@@ -3,7 +3,7 @@ p {
   font-family:Arial;
 }
 a:hover {
-  font-size:normal;
+  font-weight:normal;
   text-shadow : 2px 2px 2px black;
 }
 </style>
@@ -58,27 +58,24 @@ Unity, C#, FSM, pathfinding, Serious game.
 [Programmation d'un drone pour la photogrammétrie](/projetdrone)<br>
 Android Studio, DJI, 3D, Calcul de plan de vol.
 <br><br>
+
 ---
 
 <h3 id="exppro">Expérience Professionnelle</h3>
 
-
 Juillet-Août 2019<br>
 Développeur Web à [FROM-SCRATCH E.U.R.L](https://www.linkedin.com/company/fromscratchfr)<br>
 E-commerce, Wordpress, PHP, Javascript, Responsive, PHPmyadmin, SQL.<br>
-<br>
 
 Juillet-Août 2018<br>
 Refonte de site Web de l'ensemble scolaire La Présentation - St Joseph à Ganges<br>
 [http://lapresentation-saintjoseph.fr/](http://lapresentation-saintjoseph.fr/)<br>
-<br>
 
 Juin-Août 2017<br>
 Ouvrier viticole polyvalent dans l'exploitation familiale. <br>
-<br>
 
 Avril-février 2016<br>
 Stage de fin de formation de DUT  à [FROM-SCRATCH E.U.R.L](https://www.linkedin.com/company/fromscratchfr) (Développeur Web)<br>
 E-commerce, Wordpress, PHP, Javascript, Responsive, PHPmyadmin, SQL.<br>
-<br>
+
 ---
