@@ -28,14 +28,14 @@ Titulaire du permis B<br>
 ---
 
 <h3 id="projets">Projets</h3>
-<h2>Projets en cours</h2>
+<h4>Projets en cours</h4>
 [Projet de jeu de tir à base de Voxel et génération procédurale de terrain](/projetvoxel)<br>
 C++, OpenGL, Voxel, Génération Procédurale, Shooter.<br>
 <br>
 [Jeu de gestion de ressource renouvelable](/projetgestion)<br>
 Unity, C#, FSM, pathfinding, Serious game.<br>
 <br>
-<h2>Projets terminé</h2>
+<h4>Projets terminé</h4>
 [Programmation d'un drone pour la photogrammétrie](/projetdrone)<br>
 Android Studio, DJI, 3D, Calcul de plan de vol.<br>
 <br>
