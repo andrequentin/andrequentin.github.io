@@ -6,7 +6,8 @@
 Projet réalisé dans le cadre de ma première année de Master Informatique IMAGINA à l'Université de Montpellier.Ce projet à été réalisé en groupe avec 3 autres étudiants.
 
 <h2>Le projet : </h2>
-Réaliser une application pour Android permettant de se connecter au drone DJI phantom 3 SE afin de calculer un plan de vol. Le plan de vol à pour but de photographier une scène/un objet afin de pouvoir réaliser une modélisation 3D de celui ci.
+L’objectif de ce projet est de permettre à un utilisateur de résoudre une preuve logique
+étape par étape sous la forme d’un arbre.
 <br><br>
 
 [Lien vers la présentation du projet ](/pdf/PresentationDrone.pdf)
