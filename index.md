@@ -2,6 +2,10 @@
 p {
   font-family:Arial;
 }
+a:hover {
+  font-size:normal;
+  text-shadow : 2px 2px 2px black;
+}
 </style>
 
 ---
