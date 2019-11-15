@@ -4,7 +4,7 @@ p {
 }
 a:hover {
   font-weight:normal;
-  text-shadow : 2px 2px 2px black;
+  color: #0000ff;
 }
 </style>
 
