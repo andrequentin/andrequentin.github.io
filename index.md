@@ -1,106 +1,52 @@
-## Portfolio
 
 ---
+
 [Information](#infos)
-<a href="#formation">Formation</a>
-<a href="#projets">Projets</a>
-<a href="#exppro">Expérience Professionnelle</a>
 
-### Category Name 2
+[Formation](#formation)
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-### Category Name 2
+[Projets](#projets)
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Expérience Professionnelle](#exppro)
 
 ---
 
 <h3 id="infos">Information</h3>
+Etudiant en Master 2 IMAGINA (Images, Games and INtelligent Agents) à l'université de Montpellier.<br>
+mail : [quentin.andre@etu.umontpellier.fr](mailto:quentin.andre@etu.umontpellier.fr)
+Titulaire du permis B
+
+
+
+<h3 id="formation">Formation</h3>
 
 ---
 
-<div id="formation"></div>
-
-### Formation
-
-
+Master Informatique IMAGINA (Images, Games and INtelligent Agents)<br>
+Université de Montpellier <br>
+Depuis 2018
+---
+Licence Informatique <br>
+Université de Montpellier <br>
+2016-2018
+---
+DUT Informatique <br>
+IUT de Montpellier <br>
+2014-2016
+---
+Bac S Spécialité Informatique et Science du Numérique <br>
+Lycée Victor Hugo à Lunel <br>
+2011-2014
 ---
 
-<div id="projets">
-### Projets
+
+<h3 id="projets">Projets</h3>
+
 [Projet de jeu de tir à base de Voxel et génération procédurale de terrain](/projetvoxel)
-</div>
 
 ---
 
-<div id="expro">
-### Expérience Professionnelle
-</div>
+<h3 id="exppro">Expérience Professionnelle</h3>
+
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
