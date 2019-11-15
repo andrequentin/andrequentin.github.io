@@ -1,7 +1,7 @@
 ## Portfolio
 
 ---
-<a href="#infos">Informations</a>
+[Formations](#formation)
 <a href="#formation">Formation</a>
 <a href="#projets">Projets</a>
 <a href="#exppro">Expérience Professionnelle</a>
@@ -16,17 +16,13 @@
 
 ---
 
-<div id="infos">
-
-### Informations
-
-</div>
+<h3 id="infos">Information</h3>
 
 ---
 
-<div id="formation">
+<div id="formation"></div>
+
 ### Formation
-</div>
 
 
 ---
