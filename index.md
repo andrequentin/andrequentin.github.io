@@ -1,12 +1,3 @@
-<style type="text/css">
-p {
-  font-family:Arial;
-}
-a:hover {
-  font-weight:normal;
-  color: #0000ff;
-}
-</style>
 
 ---
 
