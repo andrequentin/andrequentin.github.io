@@ -1,6 +1,15 @@
 title: Quentin ANDRÉ
 logo: "/images/logo.jpg"
 description: >
+<style type="text/css">
+p {
+  font-family:Arial;
+}
+a:hover {
+  font-weight:normal;
+  color: #0000ff;
+}
+</style>
   <br><br>
   Étudiant en Master 2 Informatique à l'université de Montpellier
   <br><br>
