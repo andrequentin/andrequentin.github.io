@@ -13,4 +13,4 @@ Le projet consiste en la création d'un jeu de tir à la première personne avec
 
 ---
 
-[Lien vers le git du projet ](https://github.com/andrequentin/Projet_Moteur_de_jeu_Imagerie_3D_Sons_et_musique/settings/collaboration)
+[Lien vers le git du projet ](https://github.com/andrequentin/Projet_Moteur_de_jeu_Imagerie_3D_Sons_et_musique/)
