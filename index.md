@@ -19,27 +19,28 @@ Titulaire du permis B<br>
 ---
 
 <h3 id="projets">Projets</h3>
-<h4>Projets en cours</h4>
+
 [Jeu de tir à base de Voxel et génération procédurale de terrain](/projetvoxel)<br>
-C++, OpenGL, Voxel, Génération Procédurale, Shooter.<br>
+C++, OpenGL, Voxel, Génération Procédurale, Third Person Shooter.<br>
 <br>
 [Jeu de gestion de ressource renouvelable](/projetgestion)<br>
 Unity, C#, FSM, Multi-agents , Serious game.<br>
 <br>
-<h4>Projets terminé</h4>
+
 [Programmation d'un drone pour la photogrammétrie](/projetdrone)<br>
 Android Studio, DJI, 3D, Calcul de plan de vol.<br>
 <br>
 [Moteur de preuves pour la logique classique propositionnelle](/projetlogique)<br>
 Logique propositionnelle, C++, analyse lexicale .<br>
 <br>
+
 ---
 
 <h3 id="formation">Formation</h3>
 
-Master Informatique IMAGINA (Images, Games and INtelligent Agents)<br>
+Master Informatique IMAGINA (Images, Games and Intelligent Agents)<br>
 Université de Montpellier <br>
-Depuis 2018
+2018-2020
 <br><br>
 Licence Informatique <br>
 Université de Montpellier <br>
@@ -56,6 +57,10 @@ Lycée Victor Hugo à Lunel <br>
 ---
 
 <h3 id="exppro">Expérience Professionnelle</h3>
+
+__Mars-Août 2020__ <br>
+Stage de fin de formation Master Informatique (Images, Games and Intelligent Agents)  à [GearProd](https://www.linkedin.com/company/gearprod/) (Programmation GamePlay)<br>
+Unity3D, C#, HLSL, HFSM, Programmation Gameplay.<br>
 
 __Juillet-Août 2019__ <br>
 Développeur Web à [FROM-SCRATCH E.U.R.L](https://www.linkedin.com/company/fromscratchfr)<br>
