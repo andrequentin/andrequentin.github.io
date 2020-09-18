@@ -12,7 +12,7 @@
 ---
 
 <h3 id="infos">Informations</h3>
-Etudiant en Master 2 IMAGINA (Images, Games and INtelligent Agents) à l'université de Montpellier.<br>
+Diplômé du Master Informatique parcours IMAGINA (Images, Games and INtelligent Agents) de l'université de Montpellier.<br>
 mail : [quentin.andre@etu.umontpellier.fr](mailto:quentin.andre@etu.umontpellier.fr)<br>
 Titulaire du permis B<br>
 
