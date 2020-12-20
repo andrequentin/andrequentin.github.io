@@ -14,7 +14,7 @@
 <h3 id="infos">Informations</h3>
 Diplômé du Master Informatique parcours IMAGINA (Images, Games and Intelligent Agents) de l'université de Montpellier.<br>
 mail : [quentin.andre-97@laposte.net](mailto:quentin.andre-97@laposte.net)<br>
-Titulaire du permis B<br>
+Titulaire du permis B<br> 
 
 ---
 
