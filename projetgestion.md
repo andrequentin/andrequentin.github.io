@@ -11,7 +11,8 @@ Le projet consiste en la création d'un jeu de gestion dans lequel le joueur à 
 
 <br><br>
 [Lien vers la présentation du projet ](/pdf/PrésentationProjetIleDePaques_SociétéVirtuelle_BenDakhliaSalim_AndreQuentin.pdf)
-
+<br><br>
+[Lien vers le jeu (WEBGL) ](/build/index.html)
 
 ---
 [Lien vers le git du projet ](https://github.com/andrequentin/EasterIsland)
