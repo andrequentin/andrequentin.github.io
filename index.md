@@ -60,7 +60,7 @@ Lycée Victor Hugo à Lunel <br>
 
 __Mars-Août 2020__ <br>
 Stage de fin de formation Master Informatique (Images, Games and Intelligent Agents)  à [GearProd](https://www.linkedin.com/company/gearprod/) (Programmation GamePlay)<br>
-Unity3D, C#, C++, HLSL, HFSM, Programmation Gameplay, Online Gameplay (Master-Slave Pattern).<br>
+Programmation Gameplay, Online Gameplay (Master-Slave Pattern), IA(States Machine), UI Shaders,Unity3D, C#, C++, HLSL, HFSM .<br>
 
 __Juillet-Août 2019__ <br>
 Développeur Web à [FROM-SCRATCH E.U.R.L](https://www.linkedin.com/company/fromscratchfr)<br>
