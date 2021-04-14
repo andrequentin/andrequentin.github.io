@@ -14,7 +14,7 @@
 <h3 id="infos">Informations</h3>
 Diplômé du Master Informatique parcours IMAGINA (Images, Games and Intelligent Agents) de l'université de Montpellier.<br>
 mail : [quentin.andre-97@laposte.net](mailto:quentin.andre-97@laposte.net)<br>
-Titulaire du permis B<br> 
+Titulaire du permis B<br>
 
 ---
 
@@ -60,7 +60,7 @@ Lycée Victor Hugo à Lunel <br>
 
 __Mars-Août 2020__ <br>
 Stage de fin de formation Master Informatique (Images, Games and Intelligent Agents)  à [GearProd](https://www.linkedin.com/company/gearprod/) (Programmation GamePlay)<br>
-Unity3D, C#, C++, HLSL, HFSM, Programmation Gameplay.<br>
+Unity3D, C#, C++, HLSL, HFSM, Programmation Gameplay, Online Gameplay (Master-Slave Pattern).<br>
 
 __Juillet-Août 2019__ <br>
 Développeur Web à [FROM-SCRATCH E.U.R.L](https://www.linkedin.com/company/fromscratchfr)<br>
