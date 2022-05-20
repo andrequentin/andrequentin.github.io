@@ -58,6 +58,10 @@ Lycée Victor Hugo à Lunel <br>
 
 <h3 id="exppro">Expérience Professionnelle</h3>
 
+__Depuis Mai 2021__ <br>
+Ingénieur Logiciel à [EFICAD](https://www.linkedin.com/company/swood-by-eficad/)<br>
+CAO/CFAO, Solidworks, UI/UX, C++, OPENGL, VB.NET <br>
+
 __Mars-Août 2020__ <br>
 Stage de fin de formation Master Informatique (Images, Games and Intelligent Agents)  à [GearProd](https://www.linkedin.com/company/gearprod/) (Programmation GamePlay)<br>
 Programmation Gameplay, Online Gameplay (Master-Slave Pattern), IA(States Machine), UI Shaders,Unity3D, C#, C++, HLSL, HFSM .<br>
